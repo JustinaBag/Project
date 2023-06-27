@@ -52,7 +52,5 @@ modules={[Pagination]}
     </section>
 )
 }
-
-
 export default Testimonials
 
